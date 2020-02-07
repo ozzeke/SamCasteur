@@ -38,8 +38,12 @@ namespace Project_AITN_klassen
                 Console.WriteLine(klasnaam);
             }
 
-            Console.ReadKey();
 
+
+
+
+            Console.ReadKey();
+            
 
 
 
