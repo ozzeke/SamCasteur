@@ -1,0 +1,7 @@
+E:\School - corona\Banking OOP\MyBankOop\MyBankOop\bin\Debug\MyBankOop.exe.config
+E:\School - corona\Banking OOP\MyBankOop\MyBankOop\bin\Debug\MyBankOop.exe
+E:\School - corona\Banking OOP\MyBankOop\MyBankOop\bin\Debug\MyBankOop.pdb
+E:\School - corona\Banking OOP\MyBankOop\MyBankOop\obj\Debug\MyBankOop.csprojAssemblyReference.cache
+E:\School - corona\Banking OOP\MyBankOop\MyBankOop\obj\Debug\MyBankOop.csproj.CoreCompileInputs.cache
+E:\School - corona\Banking OOP\MyBankOop\MyBankOop\obj\Debug\MyBankOop.exe
+E:\School - corona\Banking OOP\MyBankOop\MyBankOop\obj\Debug\MyBankOop.pdb
